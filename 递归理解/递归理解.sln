@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "递归理解", "递归理解\递归理解.vcxproj", "{21F2A6A0-BFDB-4F3B-AAF4-AE429D64E37D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F2A6A0-BFDB-4F3B-AAF4-AE429D64E37D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21F2A6A0-BFDB-4F3B-AAF4-AE429D64E37D}.Debug|Win32.Build.0 = Debug|Win32
+		{21F2A6A0-BFDB-4F3B-AAF4-AE429D64E37D}.Release|Win32.ActiveCfg = Release|Win32
+		{21F2A6A0-BFDB-4F3B-AAF4-AE429D64E37D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
